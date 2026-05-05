@@ -1,0 +1,82 @@
+[
+  {
+    "msg_id": 3,
+    "timestamp": 1778015540,
+    "sender": "SERVER",
+    "receiver": "",
+    "type": "MSG_SERVER_INFO",
+    "text": "User [Alice] connected",
+    "delivered": true,
+    "is_offline": false
+  },
+  {
+    "msg_id": 6,
+    "timestamp": 1778015550,
+    "sender": "SERVER",
+    "receiver": "",
+    "type": "MSG_SERVER_INFO",
+    "text": "User [Alice] disconnected",
+    "delivered": true,
+    "is_offline": false
+  },
+  {
+    "msg_id": 10,
+    "timestamp": 1778015590,
+    "sender": "SERVER",
+    "receiver": "",
+    "type": "MSG_SERVER_INFO",
+    "text": "User [Alice] connected",
+    "delivered": true,
+    "is_offline": false
+  },
+  {
+    "msg_id": 13,
+    "timestamp": 1778015595,
+    "sender": "SERVER",
+    "receiver": "",
+    "type": "MSG_SERVER_INFO",
+    "text": "User [Alice] disconnected",
+    "delivered": true,
+    "is_offline": false
+  },
+  {
+    "msg_id": 17,
+    "timestamp": 1778015625,
+    "sender": "SERVER",
+    "receiver": "",
+    "type": "MSG_SERVER_INFO",
+    "text": "User [Alice] connected",
+    "delivered": true,
+    "is_offline": false
+  },
+  {
+    "msg_id": 20,
+    "timestamp": 1778015629,
+    "sender": "SERVER",
+    "receiver": "",
+    "type": "MSG_SERVER_INFO",
+    "text": "User [Alice] disconnected",
+    "delivered": true,
+    "is_offline": false
+  },
+  {
+    "msg_id": 23,
+    "timestamp": 1778015662,
+    "sender": "SERVER",
+    "receiver": "",
+    "type": "MSG_SERVER_INFO",
+    "text": "User [Alice] connected",
+    "delivered": true,
+    "is_offline": false
+  },
+  {
+    "msg_id": 26,
+    "timestamp": 1778015676,
+    "sender": "SERVER",
+    "receiver": "",
+    "type": "MSG_SERVER_INFO",
+    "text": "User [Alice] disconnected",
+    "delivered": true,
+    "is_offline": false
+  }
+]

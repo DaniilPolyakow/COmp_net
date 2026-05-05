@@ -1,0 +1,9 @@
+{
+  "nickname": "Alice",
+  "requested": 3,
+  "received": 3,
+  "lost": 0,
+  "rtt_avg_ms": 0.67,
+  "jitter_avg_ms": 0.50,
+  "loss_percent": 0.00
+}
